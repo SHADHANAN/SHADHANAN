@@ -108,7 +108,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHADHANAN&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -118,7 +118,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADHANAN&theme=tokyo-night"/>
 
 </p>
 
@@ -128,7 +128,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
