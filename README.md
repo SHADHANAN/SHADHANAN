@@ -33,13 +33,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend
@@ -51,7 +51,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
