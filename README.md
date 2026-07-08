@@ -1,4 +1,4 @@
-# Hi there <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" /> I'm Shadha
+# Hi there <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" /> I'm SHADHANAN
 
 <div align="center">
 
