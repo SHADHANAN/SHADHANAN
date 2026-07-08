@@ -52,9 +52,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHADHANAN&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADHANAN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SHADHANAN&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHADHANAN&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -84,7 +84,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADHANAN&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -94,19 +94,19 @@
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SHADHANAN">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/SHADHANAN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/SHADHANAN">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shadhanan.project@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -118,7 +118,7 @@
 
 ### Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=SHADHANAN&style=for-the-badge&color=0e75b6" />
 
 <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
 
