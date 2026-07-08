@@ -1,10 +1,18 @@
-# Hi there <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" /> I'm SHADHANAN
+<h1 align="center">
+  <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
+  Hey, I'm <strong>Shadhanan</strong>
+</h1>
+
+<p align="center">
+  Building ideas into reality, one commit at a time.
+</p>
+
 
 <div align="center">
 
 ### Building • Learning • Creating
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+SHADHANAN;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
