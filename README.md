@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi 👋, I'm SHADHANAN_S
 
@@ -147,5 +147,168 @@
 ### ⭐ Thanks for visiting!
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</div> -->
+
+
+<div align="center">
+
+# ███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗ █████╗
+# ██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║██╔══██╗
+# ███████╗███████║███████║██║  ██║███████║███████║
+# ╚════██║██╔══██║██╔══██║██║  ██║██╔══██║██╔══██║
+# ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║
+# ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+
+```
+```
+> booting developer profile...
+> loading projects...
+> loading caffeine...
+> connecting to GitHub...
+> status ............ ONLINE ●
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+every+day.;Open+Source+Enjoyer.;Turning+ideas+into+code."/>
+
+</div>
+
+---
+
+# 🧠 System Information
+
+```yaml
+Name: YOUR NAME
+Role: Software Engineer
+Location: Earth 🌍
+Status: Building...
+Focus:
+  - AI
+  - Backend
+  - Frontend
+  - Open Source
+
+Languages:
+  - Python
+  - JavaScript
+  - Java
+  - C++
+```
+
+---
+
+# ⚡ Current Mission
+
+```txt
+██████████████░░░░░░ 72%
+
+[✓] Learn New Tech
+[✓] Ship Projects
+[✓] Break Things
+[ ] Sleep 8 Hours
+```
+
+---
+
+# 🛠 Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nextjs,nodejs,express,mongodb,postgres,docker,linux,git,github,figma,vscode"/>
+
+</p>
+
+---
+
+# 📡 Live Terminal
+
+```console
+$ whoami
+
+> Software Developer
+
+$ current_status
+
+> Building awesome projects...
+
+$ coffee
+
+> ☕ Required
+
+$ git status
+
+> On branch main
+> Your future looks clean.
+```
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🐍 Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 Project One | AI powered application |
+| 🌐 Project Two | Full Stack Platform |
+| ⚡ Project Three | CLI Utility |
+| 🤖 Project Four | Machine Learning |
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 1000+ Contributions
+- ⭐ 500 GitHub Stars
+- 🤝 Open Source Contributor
+- 📦 Ship 20 Projects
+- 📚 Learn Rust
+- ☁ Master Kubernetes
+
+---
+
+<div align="center">
+
+```
+█████████████████████████████████████
+
+Thanks for scrolling.
+
+Now go check out my repositories 👇
+
+█████████████████████████████████████
+```
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 </div>
