@@ -1,112 +1,127 @@
-```markdown
+# Hi there <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" /> I'm Shadha
+
 <div align="center">
 
-# YOUR NAME
+### Building • Learning • Creating
 
-### Software Engineer • Open Source Contributor • Building Reliable Software
-
-<p>
-Focused on creating scalable applications, clean architecture, and meaningful user experiences.
-</p>
-
-<br>
-
-[Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/yourusername) •
-[Email](mailto:you@example.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About
+## 🚀 About Me
 
-I enjoy designing and building software that is reliable, maintainable, and solves real-world problems. I believe good engineering is about writing code that is easy to understand, easy to extend, and enjoyable to work with.
-
-### Current Focus
-
-- Building full-stack applications
-- Exploring AI and modern backend systems
-- Learning distributed systems and cloud architecture
-- Contributing to open source
+* 💻 Passionate about software development
+* 🌱 Currently learning modern technologies
+* 🎯 Focused on writing clean and efficient code
+* 🤝 Open to collaboration on interesting projects
+* ⚡ Love solving real-world problems
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-`Python` `JavaScript` `TypeScript` `Java` `C++`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
+</p>
 
 ### Frontend
 
-`React` `Next.js` `Tailwind CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-`Node.js` `Express` `FastAPI`
-
-### Databases
-
-`PostgreSQL` `MongoDB` `Redis`
-
-### DevOps
-
-`Docker` `Linux` `Git` `GitHub Actions`
-
----
-
-## Selected Projects
-
-| Project | Description |
-|----------|-------------|
-| **Project One** | AI-powered application |
-| **Project Two** | Full-stack web platform |
-| **Project Three** | REST API and backend services |
-| **Project Four** | Developer tooling |
-
----
-
-## Engineering Principles
-
-- Write code for humans first.
-- Simplicity scales better than complexity.
-- Performance matters, but readability comes first.
-- Automate repetitive work.
-- Never stop learning.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Current Goals
+## 🔥 GitHub Streak
 
-- Build impactful open-source projects
-- Deepen expertise in system design
-- Learn new technologies every quarter
-- Share knowledge through technical writing
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Build things that matter."*
+### Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
+
+<img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
-```
