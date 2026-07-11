@@ -1,4 +1,4 @@
-name: Generate Arcade Contribution Graph
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
@@ -17,11 +17,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Galaga Contribution Graph
-        uses: abozanona/pacman-contribution-graph@v5
+      - name: Generate Snake Contribution Graph
+        uses: abozanona/pacman-contribution-graph@latest
         with:
           github_user_name: ${{ github.repository_owner }}
-          game: galaga
+          game: snake
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
