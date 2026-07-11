@@ -102,7 +102,10 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.gif">
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.svg">
+</picture>
 
 </p>
 
