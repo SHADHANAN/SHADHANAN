@@ -120,10 +120,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/SHADHANAN">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
 <a href="mailto:shadhanan.project@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
