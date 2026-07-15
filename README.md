@@ -12,7 +12,7 @@
 
 ### Building • Learning • Creating
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learnin[...]" />
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.svg?v=1" alt="Snake Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%"/>
 
 </p>
 
