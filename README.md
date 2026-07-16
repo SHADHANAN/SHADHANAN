@@ -60,17 +60,9 @@
 
 <p align="center">
 
-<a href="https://github.com/SHADHANAN">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADHANAN&theme=tokyonight" width="100%"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHADHANAN&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHADHANAN&theme=tokyonight" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHADHANAN&theme=tokyonight" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADHANAN&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
