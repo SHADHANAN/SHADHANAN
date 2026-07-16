@@ -12,7 +12,7 @@
 
 ### Building • Learning • Creating
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learnin[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learnin[...]
 
 </div>
 
@@ -60,9 +60,17 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHADHANAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SHADHANAN">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADHANAN&theme=tokyonight" width="100%"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADHANAN&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHADHANAN&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHADHANAN&theme=tokyonight" width="48%"/>
 
 </p>
 
