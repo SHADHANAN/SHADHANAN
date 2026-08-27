@@ -1,4 +1,4 @@
-<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/79a26844-c3d1-4a45-8cde-5e6b1a0815d4" /><h1 align="center">
+<h1 align="center">
   <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
   Hey, I'm <strong>SHADHANAN_S</strong>
 </h1>
@@ -85,9 +85,16 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=SHADHANAN&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
 
----
+</p>
+<!-- ---
+## Archivements
+<p align="center">
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/79a26844-c3d1-4a45-8cde-5e6b1a0815d4" />
+
+</p>
+--- -->
 
 ## 📈 Activity Graph
 
