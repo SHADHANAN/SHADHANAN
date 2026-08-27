@@ -97,6 +97,11 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://github.com/SHADHANAN?tab=achievements&theme=tokyo-night&hide_border=true"/>
+
+</p>
 ---
 
 ## 🐍 Snake Contribution Graph
