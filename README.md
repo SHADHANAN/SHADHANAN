@@ -1,30 +1,155 @@
+<h1 align="center">
+  <img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
+  Hey, I'm <strong>SHADHANAN_S</strong>
+</h1>
+
+<p align="center">
+  Building ideas into reality, one commit at a time.
+</p>
+
+
 <div align="center">
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="980" />
+### Building • Learning • Creating
 
-<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</p>
+</div>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="500" /></td>
-    <td valign="top"><img src="./info-card.svg" width="470" /></td>
-  </tr>
-</table>
+---
 
-<br><br>
+## 🚀 About Me
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
-<p><strong>Fullstack Developer • AI Builder • Instructor</strong></p>
+* 💻 Passionate about software development
+* 🌱 Currently learning modern technologies
+* 🎯 Focused on writing clean and efficient code
+* 🤝 Open to collaboration on interesting projects
+* ⚡ Love solving real-world problems
 
-<table>
-  <tr>
-    <td><a href="https://github.com/SHADHANAN"><img src="https://img.shields.io/badge/PORTFOLIO-AVIVASHISHTA.COM-0E1117?style=for-the-badge&logo=github" alt="Portfolio" /></a></td>
-    <td><a href="https://linkedin.com/in/SHADHANAN"><img src="https://img.shields.io/badge/LINKEDIN-AVIVASHISHTA-0E1117?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a></td>
-    <td><a href="https://instagram.com/avi_vashishta29"><img src="https://img.shields.io/badge/INSTAGRAM-AVI_VASHISHTA29-0E1117?style=for-the-badge&logo=instagram" alt="Instagram" /></a></td>
-    <td><a href="https://t.me/avi_vashishta29"><img src="https://img.shields.io/badge/TELEGRAM-AVI_VASHISHTA29-0E1117?style=for-the-badge&logo=telegram" alt="Telegram" /></a></td>
-  </tr>
-</table>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHADHANAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADHANAN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SHADHANAN&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHADHANAN&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+
+</p>
+<!-- ---
+## Archivements
+<p align="center">
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/79a26844-c3d1-4a45-8cde-5e6b1a0815d4" />
+
+</p>
+--- -->
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADHANAN&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="![Uploading image.png…]()
+&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
+## 🐍 Snake Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SHADHANAN/SHADHANAN/output/github-contribution-grid-snake.gif" alt="Snake Contribution Graph" width="100%"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+
+<a href="https://github.com/SHADHANAN">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/SHADHANAN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shadhanan.project@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=SHADHANAN&style=for-the-badge&color=0e75b6" />
+
+<img src="https://api.iconify.design/lucide:mouse-pointer-2.svg" width="14" alt="cursor" />
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
